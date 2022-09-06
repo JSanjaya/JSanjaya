@@ -2,7 +2,8 @@
 
 My name is John and I'm currently a 4th year Business and Computer Science student at UBC.
 
-I'm currently learning about and working on web development projects and concepts. 
+I'm currently learning about web development and am working on a couple of projects.
+Tools I'm currently using include: React.js, Express, Node.js, Ruby on Rails, MongoDB and more.
 
 <!--
 **JSanjaya/JSanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
