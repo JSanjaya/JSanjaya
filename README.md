@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is John and I'm currently a 4th year Business and Computer Science student at UBC.
+
+I'm currently learning about and working on web development projects and concepts. 
+
 <!--
 **JSanjaya/JSanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
