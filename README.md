@@ -2,7 +2,7 @@
 
 My name is John and I'm currently a 4th year Business and Computer Science student at UBC.
 
-I'm currently learning about web development and am working on a couple of projects.
+I'm currently interested full-stack web development and am working on a couple of projects.
 Tools I'm currently using include: React.js, Express, Node.js, MongoDB and more.
 
 ### Check out my most recent project with its live demo here: 
