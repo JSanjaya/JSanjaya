@@ -3,7 +3,12 @@
 My name is John and I'm currently a 4th year Business and Computer Science student at UBC.
 
 I'm currently learning about web development and am working on a couple of projects.
-Tools I'm currently using include: React.js, Express, Node.js, Ruby on Rails, MongoDB and more.
+Tools I'm currently using include: React.js, Express, Node.js, MongoDB and more.
+
+### Check out my most recent project with its live demo here: 
+https://github.com/JSanjaya/Medicheck-in-Frontend
+
+Future projects/interests include: Ruby on Rails, mySQL databases, and etc..
 
 <!--
 **JSanjaya/JSanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
