@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is John and I'm currently a 5th year Business and Computer Science student at UBC.
+My name is John and I'm a Business and Computer Science graduate from UBC.
 
 I'm currently interested full-stack web development and am working on a couple of projects.
 Tools I'm currently using include: React.js, Express, Node.js, MongoDB and more.
